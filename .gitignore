@@ -1,0 +1,5 @@
+.env
+cron_log.txt
+cron_debug.txt
+launchd_*.txt
+__pycache__/
